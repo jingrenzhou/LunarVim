@@ -15,7 +15,7 @@
     "commit": "3022dbc"
   },
   "cmp-nvim-lsp": {
-    "commit": "78924d1"
+    "commit": "5922477"
   },
   "cmp-path": {
     "commit": "91ff86c"
@@ -45,13 +45,13 @@
     "commit": "a1e2219"
   },
   "mason.nvim": {
-    "commit": "6dbeebe"
+    "commit": "a41b90f"
   },
   "neodev.nvim": {
-    "commit": "7f8b73f"
+    "commit": "95d286e"
   },
   "nlsp-settings.nvim": {
-    "commit": "bfab219"
+    "commit": "f469f67"
   },
   "null-ls.nvim": {
     "commit": "07d4ed4"
@@ -60,7 +60,7 @@
     "commit": "6b6e35f"
   },
   "nvim-cmp": {
-    "commit": "aee4011"
+    "commit": "a188be8"
   },
   "nvim-dap": {
     "commit": "6164368"
@@ -75,10 +75,10 @@
     "commit": "2fad334"
   },
   "nvim-tree.lua": {
-    "commit": "9d241e5"
+    "commit": "1837751"
   },
   "nvim-treesitter": {
-    "commit": "2072692"
+    "commit": "dc27512"
   },
   "nvim-ts-context-commentstring": {
     "commit": "32d9627"
@@ -117,7 +117,7 @@
     "commit": "3ba6838"
   },
   "tokyonight.nvim": {
-    "commit": "ec144d9"
+    "commit": "62b4e89"
   },
   "vim-illuminate": {
     "commit": "a6d0b28"
